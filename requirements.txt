@@ -5,3 +5,7 @@ chromadb
 sentence-transformers
 python-dotenv
 pypdf
+requests
+pydantic
+ddgs
+readability-lxml
