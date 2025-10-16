@@ -4,7 +4,7 @@ This project provides a local Retrieval-Augmented Generation (RAG) chatbot with 
 
 ## Project Goal
 
-The primary goal of this project is to create an accessible and user-friendly container where individuals with less technical expertise can easily manage their data, perform Retrieval-Augmented Generation (RAG) on their documents, and conduct internet searches, all with minimal or no coding required. It aims to democratize access to powerful AI capabilities for personal knowledge management and information retrieval.
+The primary goal of this project is to create an accessible and user-friendly container where individuals with less technical expertise can easily manage their data, perform Retrieval-Augmented Generation (RAG) on their documents, and conduct internet searches, all with minimal or no coding required. It aims to democratize access to powerful AI capabilities for personal knowledge management and information retrieval
 
 ## Features
 
