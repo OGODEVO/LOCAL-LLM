@@ -114,7 +114,7 @@ You can ingest PDF documents in two ways:
 ├── test_ollama.py         # Script to test Ollama connectivity
 ├── web_search.py          # Utility for web searching and scraping
 ├── __pycache__/           # Python cache directory
-├── .git/                  # Git repository files
+├── .git/                  # Git repository files.
 └── chroma_db/             # Persistent directory for ChromaDB vector store
 ```
 
