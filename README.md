@@ -18,7 +18,7 @@ The primary goal of this project is to create an accessible and user-friendly co
     *   Performs web searches using DuckDuckGo (`ddgs`).
     *   Scrapes and extracts clean text from web pages using `readability-lxml` to provide context for answers.
 *   **Agentic Workflow:**
-    *   Employs `langchain.agents` to enable the LLM to intelligently decide whether to use the RAG system or perform a web search based on the user's query.
+    *   Employs `langchain.agents` to enable the LLM to intelligently decide whether to use the RAG system or perform a web search based on the user's query
 *   **Multiple Context Modes:**
     *   **RAG Mode:** Answers questions using your ingested PDF documents.
     *   **Web Search Mode:** Fetches information from the web to answer questions.
