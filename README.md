@@ -1,4 +1,4 @@
-# Local RAG Chatbot with Agentic Capabilities and Web Search
+# Local RAG Chatbot with Agentic Capabilities and Web Search.
 
 This project provides a local Retrieval-Augmented Generation (RAG) chatbot with agentic capabilities, allowing it to answer questions based on your local PDF documents, perform web searches for information, or directly use a local Large Language Model (LLM). The application is built with Streamlit for an interactive user interface.
 
