@@ -9,5 +9,5 @@ if [ -z "$GITHUB_REPO_URL" ]; then
 fi
 
 git add .
-git commit -m "Automated push from local RAG chatbot"
+git commit -m "Automated push from local RAG chatbot."
 git push $GITHUB_REPO_URL main
