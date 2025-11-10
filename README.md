@@ -125,4 +125,4 @@ You can test if your Ollama setup is working correctly by running:
 python test_ollama.py
 ```
 
-This script will attempt to connect to your configured Ollama endpoint and invoke the `gemma:2b` model with a simple query.
+This script will attempt to connect to your configured Ollama endpoint and invoke the `gemma:2b` model with a simple query...
